@@ -1,5 +1,14 @@
+*{
+    font-family:Gill Sans, sans-serif;
+}
 body{
     background-color:#98DDFF;
+}
+.main{
+    background-image:url('https://www.usnews.com/object/image/00000184-1ef9-d53d-a78f-7ff97b7f0000/westtown-school.jpg?update-time=1666968611287&size=superhero-large');
+}
+.mainfont{
+    color:#98DDFF;
 }
 button {
     background-color: white;
@@ -14,6 +23,7 @@ button {
 h1{
     color:#6a4a3a;
     font-size:60px;
+    text-align:center;
 }
 h2{
     font-size:50px;
@@ -43,4 +53,8 @@ input{
     text-align:center;
     width:1300px;
     height:500px;
+}
+footer{
+    color:white;
+    font-size:5px;
 }
